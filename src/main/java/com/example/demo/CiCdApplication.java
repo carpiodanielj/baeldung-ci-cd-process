@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CiCdApplication {
 
 	/**
-	 * The main method
+	 * The main method.
 	 * @param args
 	 */
 	public static void main(String[] args) {
